@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 
-const port = 41;
+const port = 80;
 
 var result = [
   "maşallah",
