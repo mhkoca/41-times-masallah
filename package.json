@@ -1,0 +1,25 @@
+{
+  "name": "41-times-masallah",
+  "version": "1.0.0",
+  "description": "41 kere maşallah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhkoca/41-times-masallah.git"
+  },
+  "keywords": [
+    "masallah"
+  ],
+  "author": "mhkoca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhkoca/41-times-masallah/issues"
+  },
+  "homepage": "https://github.com/mhkoca/41-times-masallah#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
